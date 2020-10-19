@@ -4,6 +4,7 @@ module.exports = {
   output: {
     filename: 'app.[contentHash].js'
   },
+  mode: "development",
   devtool: 'source-map',
   module: {
     rules: [

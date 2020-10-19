@@ -1,0 +1,14 @@
+.fancyButton {
+  width: 100%;
+  border: 0;
+  font-weight: 900;
+  font-size: 14px;
+  color: white;
+  background: #2C64B7;
+  border-radius: 5px;
+  padding: 11px 0;
+
+  &--blue { background: #2C64B7; }
+
+  &--gray { background: #B3B3B3; }
+}

@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './style.scss'
+
+import App from './components/app';
+import './components/style.scss'
 
 const container = document.getElementById('app');
-ReactDOM.render(<div>HOLA MUNDO</div>, container);
+ReactDOM.render(<App />, container);

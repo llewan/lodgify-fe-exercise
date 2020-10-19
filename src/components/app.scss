@@ -1,0 +1,9 @@
+.app {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(218px, 218px));
+  grid-gap: 20px;
+  align-items: center;
+
+  .card {
+  }
+}

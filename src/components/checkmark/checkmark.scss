@@ -1,0 +1,8 @@
+.checkmark {
+  display: flex;
+  align-items: center;
+  color: #11A960;
+  font-size: 14px;
+  line-height: 18px;
+  &__icon { margin-right: 8px; }
+}
